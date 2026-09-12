@@ -37,7 +37,4 @@
 ![](https://streak-stats.demolab.com/?user=clarkRhazen0823&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=clarkRhazen0823&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=clarkRhazen0823&icon=1&color=12)]
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
